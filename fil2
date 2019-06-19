@@ -1,1 +1,6 @@
 this is the second file being created
+ 
+ we can modify the file but it is not committed
+ so we much commit it using -a parameter
+ we can also add the -m parameter so we can add a new commit message
+ 
